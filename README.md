@@ -7,6 +7,8 @@
 ![Version](https://img.shields.io/github/v/release/T5A111/BetterNotch-Release?label=Version&color=green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<a href="https://buymeacoffee.com/t5a111"><img src="https://img.shields.io/badge/☕_買杯咖啡支持我-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+
 ## 📥 下載安裝
 
 📦 **[下載最新版本](https://github.com/T5A111/BetterNotch-Release/releases/latest)**（`BetterNotch-x.x.dmg`）
