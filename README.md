@@ -1,25 +1,28 @@
-# Better Notch
+# Eaves 簷下
+
+> 原名 **BetterNotch**，現已改名為 Eaves，功能與資料都會自動沿用。
 
 把 MacBook 的瀏海變成好用的工具列：暫存檔案、剪貼簿、媒體控制、系統資訊、天氣、行事曆、計時器，
 滑鼠移到瀏海或點一下就展開。基於 [NotchDrop](https://github.com/Lakr233/NotchDrop) 打造。
 
 ![macOS](https://img.shields.io/badge/macOS-14.0+-blue)
-![Version](https://img.shields.io/github/v/release/T5A111/BetterNotch-Release?label=Version&color=green)
+![Version](https://img.shields.io/github/v/release/T5A111/Eaves?label=Version&color=green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 <a href="https://buymeacoffee.com/t5a111"><img src="https://img.shields.io/badge/☕_買杯咖啡支持我-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
 ## 📥 下載安裝
 
-📦 **[下載最新版本](https://github.com/T5A111/BetterNotch-Release/releases/latest)**（`BetterNotch-x.x.dmg`）
+📦 **[下載最新版本](https://github.com/T5A111/Eaves/releases/latest)**（`Eaves-x.x.dmg`）
 
-1. 開啟 `.dmg`，把 **BetterNotch** 拖到「應用程式」資料夾。
-2. 打開 BetterNotch，依照新手引導開啟需要的權限（都可以之後再到「系統設定」調整）。
+1. 開啟 `.dmg`，把 **Eaves** 拖到「應用程式」資料夾。
+2. 打開 Eaves，依照新手引導開啟需要的權限（都可以之後再到「系統設定」調整）。
 
 App 已經過 Apple 公證，可以直接打開，不需要到「隱私權與安全性」手動允許。
 之後的新版本會在 App 內自動通知更新。
 
-> 從舊版（v2.0 以前）升級：舊版無法自動更新，請下載新版安裝，再把舊的 BetterNotch 移到垃圾桶。
+> 從 BetterNotch 1.0 升級：App 內會自動更新，不需要重新下載。
+> 從更舊的版本（v2.0 以前）升級：舊版無法自動更新，請下載新版安裝，再把舊的 BetterNotch 移到垃圾桶。
 > 暫存櫃、剪貼簿與分頁設定會自動沿用。
 
 **系統需求**：macOS 14.0 以上，Intel 或 Apple Silicon。沒有瀏海的 Mac 和外接螢幕也能使用。
@@ -50,12 +53,12 @@ App 已經過 Apple 公證，可以直接打開，不需要到「隱私權與安
 | 系統音訊錄製 | 播放音樂時的即時音波（只分析音量，不錄音、不儲存） |
 | 自動化 | 控制 Spotify / Apple Music 的進度與音量 |
 
-所有資料都只存在你的 Mac 上（`~/Library/Application Support/BetterNotch`），不會上傳。
+所有資料都只存在你的 Mac 上（`~/Library/Application Support/Eaves`），不會上傳。
 App 異常結束時會詢問是否回報，由你決定要不要開啟 GitHub 回報頁。
 
 ## 🐛 問題回報
 
-請到 [Issues](https://github.com/T5A111/BetterNotch-Release/issues) 回報，附上 macOS 版本與重現步驟。
+請到 [Issues](https://github.com/T5A111/Eaves/issues) 回報，附上 macOS 版本與重現步驟。
 
 ## ☕ 支持開發
 
@@ -65,7 +68,7 @@ App 異常結束時會詢問是否回報，由你決定要不要開啟 GitHub �
 
 MIT License。
 - 原始專案：[NotchDrop](https://github.com/Lakr233/NotchDrop) © 2024 Lakr Aream
-- 增強版本：© 2025–2026 SAI T
+- Eaves（原 BetterNotch）：© 2025–2026 SAI T
 
 天氣資料由 [Apple 天氣](https://weatherkit.apple.com/legal-attribution.html) 提供，空氣品質由 [Open-Meteo](https://open-meteo.com) 提供，
 歌詞由 [LRCLIB](https://lrclib.net) 提供。
