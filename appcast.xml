@@ -4,11 +4,11 @@
     <title>BetterNotch</title>
     <item>
       <title>1.0</title>
-      <pubDate>Fri, 06 Nov 2026 19:20:56 GMT</pubDate>
-      <sparkle:version>202611070318</sparkle:version>
+      <pubDate>Sat, 07 Nov 2026 02:39:00 GMT</pubDate>
+      <sparkle:version>202611071034</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/T5A111/BetterNotch-Release/releases/download/v1.0/BetterNotch-1.0.zip" sparkle:edSignature="ikZu2+IWs73Nll5xvW/i2UKbHaYWAhiZsvPqOzrHVdLUVt+1M1mWyVpU7Hil9Oie6toET3XdWdIbWH5bVxbBAg==" length="5113633" type="application/octet-stream"/>
+      <enclosure url="https://github.com/T5A111/Eaves/releases/download/v1.0/Eaves-1.0.zip" sparkle:edSignature="HliD96hDn76XMLydHWDPOAiyYeP6EpGoFsXOcUEY7j0oNtgnfgJZ5Ysc7G04z2T0U1GG210NDSF9lSP8eqzdAw==" length="5115004" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
