@@ -1,4 +1,4 @@
-# Eaves 簷下
+# Eaves
 
 > 原名 **BetterNotch**，現已改名為 Eaves，功能與資料都會自動沿用。
 
